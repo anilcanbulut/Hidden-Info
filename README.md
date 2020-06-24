@@ -14,6 +14,16 @@ The algorithm simply works as follows:
 
 These are the three steps that I apply.
 
+Usage of the code file "encode-info.py":
+       -- Go to the code's directory from the cmd (Windows), same for the Mac's terminal.
+       -- If python is installed on your computer, run the following line
+	  -- python encode-info.py -i <image_name> -m <"Your message">
+
+       Usage of the code file "decode-info.py":
+       -- Go to the code's directory from the cmd (Windows), same for the Mac's terminal.
+          -- If python is installed on your computer, run the following line
+	  -- python decode-info.py -i <image_name> -s <size_of_the_message>
+
 Note: I have seen the algorithm at this <a href="https://www.geeksforgeeks.org/image-based-steganography-using-python/">side</a>.
 
 <p align="center">

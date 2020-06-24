@@ -17,5 +17,5 @@ These are the three steps that I apply.
 Note: I have seen the algorithm at this <a href="https://www.geeksforgeeks.org/image-based-steganography-using-python/">side</a>.
 
 <p align="center">
-  <img src="images/quetzal-bird.jpg" width="50" title="Image used to encode the information">
+  <img src="images/quetzal-bird.jpg" width="500" title="Image used to encode the information">
 </p>
